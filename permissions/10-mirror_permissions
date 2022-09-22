@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod --o=olleh hello
+chmod --a=olleh hello
