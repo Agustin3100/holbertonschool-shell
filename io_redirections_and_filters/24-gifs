@@ -1,2 +1,2 @@
 #!/bin/bash
-find . -name ".gif" -type f -size -print
+find . -name .gif -type f -size -print
