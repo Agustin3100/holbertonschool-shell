@@ -1,2 +1,3 @@
 #!/bin/bash
-wc -l .
+ls -l | tail -n 10
+
