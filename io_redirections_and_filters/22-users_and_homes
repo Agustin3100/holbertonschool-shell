@@ -1,2 +1,2 @@
 #!/bin/bash
-uniq -c /etc/passwd
+uniq /etc/passwd | grep -E "[a-z]+" /etc/passwd 
