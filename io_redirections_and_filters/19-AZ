@@ -1,2 +1,2 @@
 #!/bin/bash
-cut A,c | echo 'Z,e'
+tr -d A,c | echo 'Z,e'
