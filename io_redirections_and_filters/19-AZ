@@ -1,2 +1,2 @@
 #!/bin/bash
-echo 'A,c' | cut -c A,c | echo 'Z,e'
+cut A,c | echo 'Z,e'
