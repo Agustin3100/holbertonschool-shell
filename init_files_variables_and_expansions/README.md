@@ -1,0 +1,1 @@
+script that makes an alias
