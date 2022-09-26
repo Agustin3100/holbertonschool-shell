@@ -1,2 +1,2 @@
 #!/bin/bash
-$printf "%d\n" "$WATER" + "$STIR" == $bestchol
+echo $((WATER+STIR)) = $((BESTCHOL))
