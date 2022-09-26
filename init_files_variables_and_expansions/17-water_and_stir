@@ -1,2 +1,2 @@
 #!/bin/bash
-expr $WATER + $STIR = $bestchol
+expr (($WATER)) + (($STIR)) = (($bestchol))
