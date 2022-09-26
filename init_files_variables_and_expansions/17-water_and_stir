@@ -1,2 +1,2 @@
 #!/bin/bash
-echo $((water#$WATER)) + $((stir#$STIR)) = $((bestchol#$BESTCHOL))
+printf "%o\n" $((echo $WATER | tr water "ewwatratewa"))

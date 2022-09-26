@@ -1,2 +1,2 @@
 #!/bin/bash
-less -p [A-Z]
+cut -c 1 | tr -d '\n' | paste -s
